@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "generate_bill",
+            "request": "launch",
+            "mainClass": "generate_bill",
+            "projectName": "project_cc5f7d00"
+        },
+        {
+            "type": "java",
+            "name": "login",
+            "request": "launch",
+            "mainClass": "login",
+            "projectName": "project_cc5f7d00"
+        },
+        {
+            "type": "java",
+            "name": "new_customer",
+            "request": "launch",
+            "mainClass": "new_customer",
+            "projectName": "project_cc5f7d00"
+        },
+        {
+            "type": "java",
+            "name": "customer_details",
+            "request": "launch",
+            "mainClass": "customer_details",
+            "projectName": "project_cc5f7d00"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "LastBill",
+            "request": "launch",
+            "mainClass": "LastBill",
+            "projectName": "project_cc5f7d00"
+        }
+    ]
+}
