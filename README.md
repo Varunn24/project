@@ -73,5 +73,5 @@ Contributions, bug reports, or feature requests are welcome!
 3. Make changes & commit (`git commit -m 'Add new feature'`)  
 4. Push to branch and open a Pull Request  
 
-## License  
+## License 
 *(If you have a license, specify it here — e.g. MIT, Apache-2.0. If none, you can omit this or add one later.)*
