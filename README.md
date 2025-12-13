@@ -60,7 +60,7 @@ A Java-based project (100% Java) containing multiple classes — for customer ma
    java Project
    ```  
 
-## Usage  
+## Usage 
 - On launch, you'll see a splash/startup screen.  
 - Use the login screen (login.java) to log in.  
 - New users can register via the “new customer” module.  
