@@ -1,6 +1,5 @@
 # project
 
-
 ## Description  
 A Java-based project (100% Java) containing multiple classes — for customer management, billing, login, payment, splash screen and more.  
 *(You can replace this with a more descriptive summary of what the project does — e.g. “A billing & customer-management system in Java for retail use.”)*
